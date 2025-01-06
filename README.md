@@ -1,3 +1,6 @@
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/jdelsey/jo-rag-learning/HEAD
+
 # Introduction to Retrieval Augmented Generation
 
 This repository will introduce you to Retrieval Augmented Generation (RAG) with
