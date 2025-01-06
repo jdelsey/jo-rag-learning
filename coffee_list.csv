@@ -1,0 +1,30 @@
+type,region,rating,date,description
+Espresso,Italy,4.8,1/6/2025,Strong and rich with a smooth finish.
+Latte,France,4.5,1/5/2025,Creamy and smooth with a hint of sweetness.
+Cappuccino,Italy,4.7,1/4/2025,Balanced and frothy with a rich flavor.
+Americano,USA,4.3,1/3/2025,Bold and robust with a smooth finish.
+Flat White,Australia,4.6,1/2/2025,Smooth and velvety with a rich taste.
+Mocha,Yemen,4.9,1/1/2025,Rich and chocolatey with a hint of sweetness.
+Macchiato,Italy,4.4,1/7/2025,Strong and bold with a touch of milk.
+Irish Coffee,Ireland,4.2,1/8/2025,Bold coffee with Irish whiskey and cream.
+Turkish Coffee,Turkey,4.7,1/9/2025,Strong and rich with a thick consistency.
+Affogato,Italy,4.8,1/10/2025,Espresso poured over vanilla ice cream.
+Cortado,Spain,4.6,1/11/2025,Equal parts espresso and steamed milk.
+Ristretto,Italy,4.7,1/12/2025,Short shot of espresso with intense flavor.
+Doppio,Italy,4.8,1/13/2025,Double shot of espresso.
+Lungo,Italy,4.3,1/14/2025,Longer extraction time for a milder flavor.
+Red Eye,USA,4.2,1/15/2025,Coffee with a shot of espresso.
+Black Eye,USA,4.1,1/16/2025,Coffee with two shots of espresso.
+Galao,Portugal,4.5,1/17/2025,Espresso with foamed milk.
+Cafe au Lait,France,4.6,1/18/2025,Coffee with hot milk.
+Cafe Cubano,Cuba,4.7,1/19/2025,Sweetened espresso shot.
+Cafe de Olla,Mexico,4.8,1/20/2025,Coffee brewed with cinnamon and piloncillo.
+Cafe Bomban,Spain,4.9,1/21/2025,Espresso with condensed milk.
+Cafe con Hielo,Spain,4.3,1/22/2025,Iced coffee.
+Cafe Touba,Senegal,4.2,1/23/2025,Coffee with grains of Selim and cloves.
+Ca Phe Sua Da,Vietnam,4.7,1/24/2025,Iced coffee with sweetened condensed milk.
+Kopi Tubruk,Indonesia,4.6,1/25/2025,Boiled coffee grounds with sugar.
+Kopi Luwak,Indonesia,4.9,1/26/2025,Coffee made from beans digested by civet cats.
+Phariaer Kaffee,Germany,4.8,1/27/2025,Coffee with rum and whipped cream.
+Mazagran,Portugal,4.3,1/28/2025,Iced coffee with lemon.
+Wiener Melange,Austria,4.7,1/29/2025,Coffee with steamed milk and foam.
